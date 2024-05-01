@@ -1,0 +1,22 @@
+.experience-detail .twentytwenty-container img {
+	height: auto !important;
+	max-height: none !important;
+}
+
+.tivoli .swiper-lazy-preloader {
+	display: none !important;
+}
+
+.doc-list-item-h { color: #717171; }
+
+.doc-list-item-h a {
+	text-decoration: none;
+	display: table;
+	border-bottom: 1px solid #717171;
+	line-height: 1.9;
+	width: 372px;
+	color: #717171;
+	font-size: 14px;
+}
+.doc-list-item {}
+.doc-list {}
